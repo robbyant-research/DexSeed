@@ -2,9 +2,9 @@
 
 Official project page for **DexSeed: Expanding Human Hand–Object Interactions into Robot Demonstrations for Dexterous Policy Learning**.
 
-**[Project page](https://robbyant-research.github.io/DexSeed/)**
+**[Project page](https://robbyant-research.github.io/DexSeed/)** | **[arXiv](https://arxiv.org/abs/2611.14092)**
 
-Research code will be released here. The arXiv link will be added when available.
+Research code will be released here.
 
 ## Website
 
@@ -23,6 +23,9 @@ Editing and media details are in [README.txt](README.txt).
   title = {DexSeed: Expanding Human Hand--Object Interactions into Robot Demonstrations for Dexterous Policy Learning},
   author = {Huaijin Pi and Zehong Shen and Yong Wang and Kechun Xu and Changpeng Wang and Dingkun Wei and Xueyang Wang and Wenjia Wang and Xing Zhu and Yujun Shen and Taku Komura},
   year = {2026},
-  url = {https://robbyant-research.github.io/DexSeed/}
+  eprint = {2611.14092},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.RO},
+  url = {https://arxiv.org/abs/2611.14092}
 }
 ```

@@ -34,8 +34,8 @@ assets/js/data.js              Existing case and media references
 assets/js/results.js           Table IV/VI values and interactive charts
 assets/figures/                Standalone chart images for each evaluation setting
 
-The arXiv entry in index.html currently shows "Coming soon". When its public
-URL is available, replace the pending-link span with an anchor to that URL.
+The arXiv entry in index.html links to https://arxiv.org/abs/2611.14092.
+The on-page BibTeX includes the arXiv identifier and paper URL.
 Code links to the official repository; Cite links to the on-page BibTeX.
 
 Chart.js 4.5.1 is included locally under assets/vendor/chart.js/ with its MIT
